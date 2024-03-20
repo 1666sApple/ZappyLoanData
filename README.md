@@ -2,13 +2,16 @@
 
 The main goal of this task is to developed to develop and maintain Zappy Financial Services (ZFS) for automating loan data processing.
 
-### Datasets:
+## Datasets:
+
 The two files provided by the DBA are:
+
 • A file in PDF format called ‘Loans_Database_Table.pdf’
 
 • An Excel file, called ‘Zappy Loan Data.xlsx’
 
-#### Features in Dataset - 
+
+### Features in Dataset - 
 
 • Gender: 1-Male, 2-Female
 
@@ -24,7 +27,7 @@ The two files provided by the DBA are:
 
 • Property_Area: 1-Urban, 2-Semiurban, 3-Rural
 
-### Model usage -
+## Model usage -
 
 XGboost
 
