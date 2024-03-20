@@ -1,6 +1,6 @@
 .git
 token.txt
-zappyloandata/pyenv.cfg
+zappyloandata/pyvenv.cfg
 zappyloandata/bin
 zappyloandata/lib
 zappyloandata/lib64
